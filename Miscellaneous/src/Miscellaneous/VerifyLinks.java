@@ -1,7 +1,7 @@
 package Miscellaneous;
 
 /**
- * @author Aponte
+ * @author Gerardo Aponte
  *
  */
 import java.net.HttpURLConnection;
