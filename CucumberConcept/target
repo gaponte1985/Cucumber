@@ -1,0 +1,38 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Check for is validated when there are no errors",
+        "description": "Given: I am on my zoo website\r\nWhen: I click on the contact link\r\nAnd: populate the contact form\r\nThen: I should be on the contact confirmation page",
+        "id": "the-test-contact-from-when-there-are-no-erros;check-for-is-validated-when-there-are-no-errors",
+        "type": "scenario",
+        "keyword": "Scenario"
+      }
+    ],
+    "name": "The test contact from when there are no erros",
+    "description": "",
+    "id": "the-test-contact-from-when-there-are-no-erros",
+    "keyword": "Feature",
+    "uri": "features/ContactConfirm.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "My Firts step",
+        "description": "Given: this is my firts step\r\nWhen: this is my second step\r\nThen: this is my final step",
+        "id": "proff-of-concept-that-my-framework-works;my-firts-step",
+        "type": "scenario",
+        "keyword": "Scenario"
+      }
+    ],
+    "name": "Proff of concept that my framework works",
+    "description": "",
+    "id": "proff-of-concept-that-my-framework-works",
+    "keyword": "Feature",
+    "uri": "features/myfeature.feature"
+  }
+]
